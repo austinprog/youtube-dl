@@ -659,6 +659,7 @@ from .stanfordoc import StanfordOpenClassroomIE
 from .steam import SteamIE
 from .streamcloud import StreamcloudIE
 from .streamcz import StreamCZIE
+from .streamio import streamioIE
 from .streetvoice import StreetVoiceIE
 from .sunporno import SunPornoIE
 from .svt import (
